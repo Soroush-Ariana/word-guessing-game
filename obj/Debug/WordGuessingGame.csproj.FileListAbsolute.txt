@@ -1,0 +1,7 @@
+C:\Users\sorosh\Projects\WordGuessingGame\bin\Debug\WordGuessingGame.exe.config
+C:\Users\sorosh\Projects\WordGuessingGame\bin\Debug\WordGuessingGame.exe
+C:\Users\sorosh\Projects\WordGuessingGame\bin\Debug\WordGuessingGame.pdb
+C:\Users\sorosh\Projects\WordGuessingGame\obj\Debug\WordGuessingGame.csproj.AssemblyReference.cache
+C:\Users\sorosh\Projects\WordGuessingGame\obj\Debug\WordGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\sorosh\Projects\WordGuessingGame\obj\Debug\WordGuessingGame.exe
+C:\Users\sorosh\Projects\WordGuessingGame\obj\Debug\WordGuessingGame.pdb
